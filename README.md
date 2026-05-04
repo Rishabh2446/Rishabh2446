@@ -1,44 +1,72 @@
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
+<h3 align="center">🚀 Full Stack MERN Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 💻 Passionate about building scalable web applications  
-- 🌱 Currently learning **Advanced Backend & System Design**  
-- 🔭 Working on **Full Stack Projects (MERN Stack)**  
-- 🧠 Strong interest in **DSA & Problem Solving**  
-- ⚡ Fun fact: I love turning ideas into real-world applications  
+- 💻 Full-Stack Developer specializing in **MERN Stack**
+- 🔭 Currently building scalable web applications and real-time systems  
+- 🌱 Learning **Advanced Backend & System Design**
+- 🧠 Strong foundation in **DSA, OS, DBMS, and Computer Networks**
+- ⚡ Passionate about writing clean, efficient, and maintainable code  
+
+---
+
+## 🎓 Education
+- 🎓 **B.Tech in Computer Science** – JSS Academy Of Technical Education, Noida (2023–2026)  
+  - CGPA: **8.23**
+- 🎓 Diploma in Mechanical Engineering – Government Polytechnic Ayodhya (76.4%) :contentReference[oaicite:0]{index=0}  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- JavaScript | Java | C++
+Java | Python | JavaScript | SQL  
 
 ### 🌐 Frontend
-- HTML | CSS | Tailwind CSS | React.js
+React.js | HTML | CSS | Tailwind CSS | Redux  
 
 ### ⚙️ Backend
-- Node.js | Express.js
+Node.js | Express.js  
 
 ### 🗄️ Database
-- MongoDB | MySQL
+MongoDB | MySQL  
 
-### 🧰 Tools & Technologies
-- Git | GitHub | Postman | VS Code
+### 🔧 Tools & Technologies
+Git | GitHub | Postman | Cloudinary | Stripe | Socket.io | WebRTC  
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 StudyNotion
-- A full-stack ed-tech platform
-- Features: Authentication, Course Management, Payment Integration
-- Tech: MERN Stack
+### 🔹 StudyNotion (EdTech Platform)
+- Built a **full-stack e-learning platform** for instructors and students  
+- Implemented **JWT authentication & REST APIs**  
+- Integrated **Cloudinary (media)** & **Stripe (payments)**  
+- Optimized MongoDB queries for performance  
 
-👉 Add more projects here...
+---
+
+### 🔹 Smart Meet (Video Conferencing App)
+- Developed **real-time video conferencing platform**  
+- Used **WebRTC + Socket.io** for peer-to-peer communication  
+- Secured backend with **JWT & Bcrypt encryption**  
+
+---
+
+### 🔹 MedPredict (ML Project)
+- Built ML model to predict **maternal health risks**  
+- Used **Scikit-learn, XGBoost, Pandas**  
+- Evaluated with **Accuracy, Precision, Recall, F1-score**  
+
+---
+
+## 📜 Certifications
+- 🏅 Full Stack Internship – SMARTBRIDGE & SMARTINTERNZ  
+- ☁️ AWS Solutions Architecture Job Simulation  
+- 🔐 Deloitte Cyber Job Simulation  
+- 📊 Deloitte Data Analytics Job Simulation  
 
 ---
 
@@ -64,31 +92,36 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your.email@example.com
-- 🌍 Portfolio: [Your Portfolio Link]
+- 💼 LinkedIn: https://www.linkedin.com/in/rishabh-gupta-b64b32336  
+- 📧 Email: guptarishabh8686@gmail.com  
+- 💻 LeetCode: https://leetcode.com/u/rishu-gupta/  
 
 ---
 
 ## 🧠 Coding Profiles
-
-- LeetCode: [Your Profile]
-- CodeChef: [Your Profile]
-- GeeksforGeeks: [Your Profile]
+- 🟡 LeetCode: Active problem solver  
+- 💡 Strong focus on Data Structures & Algorithms  
 
 ---
 
-## 🏆 Achievements
-- 🚀 Built multiple full-stack applications  
-- 💡 Strong problem-solving skills  
-- 🏅 Active GitHub contributor  
+## 🔥 Highlights
+- 🚀 Built multiple **full-stack and real-time applications**  
+- ⚡ Strong understanding of **system design & backend architecture**  
+- 🧩 Experience with **API design, authentication, and optimization**  
 
 ---
 
-## 🔥 Quote
-
-> "Code. Learn. Build. Repeat."
+## 🧭 Current Focus
+- Scalable backend systems  
+- System Design  
+- Competitive Programming  
 
 ---
 
-⭐️ From [Rishabh](https://github.com/Rishabh2446)
+## 💡 Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+⭐️ From [Rishabh Gupta](https://github.com/Rishabh2446)
